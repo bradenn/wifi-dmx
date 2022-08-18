@@ -42,7 +42,7 @@ Return an array of the channels' current values.
 ##### Response
 
 ```json
-
+{
     "channels": [
         {
             "channel": 1,
